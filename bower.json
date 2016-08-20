@@ -1,0 +1,13 @@
+{
+    "name": "ng-utils",
+    "version": "1.0.0",
+    "main": "ng-utils.js",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
